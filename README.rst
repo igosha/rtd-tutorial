@@ -1,8 +1,7 @@
-Template for the Read the Docs tutorial
+This is my test homepage
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+I'm trying to make it simple/optimal.
 
 Read the tutorial here:
 
